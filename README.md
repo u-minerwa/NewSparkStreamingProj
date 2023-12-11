@@ -1,0 +1,1 @@
+Изменённый проект Spark Streaming
